@@ -1,0 +1,58 @@
+body {
+    background-color:rgb(7, 6, 20)
+  }
+
+  .red {
+    border: 50px;
+    margin: 1px 380px;
+    border-radius:100%;
+    padding:50px;
+    background-color: rgb(228, 9, 9);
+
+  }
+
+  .orange {
+      border: 50px;  
+      border-radius:100%;
+      padding:50px;
+    background-color: rgb(238, 139, 11);
+
+
+  }
+
+  .yellow {
+      border: 50px;  
+      border-radius:100%;
+      padding:50px;
+      background-color: rgb(241, 245, 12);
+
+
+  }
+
+
+  .green {
+      border: 50px; 
+      border-radius:100%;
+      padding:50px;
+      background-color: rgb(7, 136, 7);
+
+
+    }
+
+    .blue {
+      border: 50px;   
+      border-radius:100%;
+      padding:50px;
+      background-color: rgb(10, 22, 192);
+
+
+    }
+
+    .purple {
+      border: 50px;  
+      border-radius:100%;
+      padding:50px;
+      background-color: rgb(128, 7, 133);
+
+
+    }
